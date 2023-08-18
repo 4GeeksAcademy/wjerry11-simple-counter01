@@ -1,0 +1,25 @@
+.counter-display {
+  display: flex;
+  text-align: center;
+  margin: 100px auto;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  font-size: 100px;
+}
+
+.bi-clock {
+  width: 80px;
+  height: 80px;
+
+  padding-center: 30px;
+}
+h1 {
+  font-size: 100px;
+  border-left: 10px solid rgb(156, 151, 151);
+  font-size: 100px;
+  width: 100px;
+  text-align: center;
+  margin: 0;
+}
